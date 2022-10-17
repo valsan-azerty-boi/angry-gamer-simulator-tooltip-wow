@@ -1,0 +1,10 @@
+## Interface: 90207
+## Title: AngryGamerSimulatorTooltip
+## Version: 1.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Notes: Displays gender on NPC and players tooltip like if you are an angry gamer or boomer.
+## Description: Displays gender on NPC and players tooltip like if you are an angry gamer or boomer.
+## Description-frFR: Affiche le genre sur le tooltip des PNJ et joueurs comme si vous étiez un gamer en colère ou un boomer.
+
+AngryGamerSimulatorTooltip.lua
